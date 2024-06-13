@@ -1,4 +1,4 @@
-# CSCI24000_fall22_final_project
+# Workout-Tracker
 
 How to use the Workout Log
 
@@ -12,9 +12,3 @@ For the athletes: username is jbezos password is amazon (has run workouts)*
                   username is sjobs password is apple (has yoga workouts)*
 * I made a new user for each of the distinct workout types as their workout log and pace will look different *
 * yoga will behave just like lift and run will behave the same as walk and bike *
-
-Extra Notes:
-
-I did exception handling for the following cases: if a user enters a non-number when a number is needed and
-if a user enters an index number of an arraylist that does not exist.
-# Workout-Tracker
